@@ -4,9 +4,6 @@
 - They can be called and executed independently, without any specific object or instance.
 - Functions are defined using the def keyword followed by a function name, a parameter list (if any), and a code block.
 ## Example of a function:
-
-### Example
-
 ```
 def add(a, b):
     return a + b
