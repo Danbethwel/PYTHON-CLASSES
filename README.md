@@ -5,13 +5,15 @@
 - Functions are defined using the def keyword followed by a function name, a parameter list (if any), and a code block.
 ## Example of a function:
 
-python Copy code
+### Example
+
 ```
 def add(a, b):
     return a + b
-
+```
     
-Methods:
+# Methods
+
 Methods, on the other hand, are functions that are associated with objects or instances of a class. They are defined within a class and are used to perform operations specific to that class.
 Methods are called on instances of a class and often operate on the data or attributes of the instance.
 Methods are defined within a class using the def keyword, just like functions, but they have an additional first parameter commonly named self, which refers to the instance on which the method is called.
